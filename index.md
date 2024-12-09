@@ -27,3 +27,7 @@ echo "Hello, World!"
 # List all files in the current directory
 ls -la
 ```
+
+- [ ] Complete all the steps
+- [ ] Merge reequests with main branch
+- [ ] Celebrate
